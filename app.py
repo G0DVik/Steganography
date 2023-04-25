@@ -7,7 +7,7 @@ import numpy as np
 # Define Streamlit app
 def app():
     # Set page title
-    st.set_page_config(page_title="Steganography App")
+    st.set_page_config(page_title="StegoCloud: Image Steganography App")
 
     # Set page heading
     st.title("Steganography App")
